@@ -1,7 +1,7 @@
 {
   "name": "old",
   "version": "0.0.0",
-  "description": "Small description for old goes here",
+  "description": "Dummy / test app for troubleshooting ember-electron 1.x build process",
   "license": "MIT",
   "author": "",
   "directories": {
@@ -51,7 +51,6 @@
   "private": true,
   "main": "electron.js",
   "ember-electron": {
-    "WHAT IS THIS?": "Please see the README.md",
     "copy-files": [
       "electron.js",
       "package.json"
@@ -59,7 +58,7 @@
     "name": null,
     "platform": null,
     "arch": null,
-    "version": null,
+    "version": "1.6.2",
     "app-bundle-id": null,
     "app-category-type": null,
     "app-copyright": null,
